@@ -1,4 +1,16 @@
-# Nextjs 13
+---
+title: "Exploring the New Features of Next.js 13"
+seoTitle: "Exploring the New Features of Next.js 13"
+seoDescription: "Next.js v13 was released by Vercel at the Next.js conference in October 2022, bringing many new features and improvements"
+datePublished: Wed Feb 22 2023 09:10:39 GMT+0000 (Coordinated Universal Time)
+cuid: clefggled004bdknv63ab3oom
+slug: exploring-new-features-of-nextjs13
+canonical: https://blog.bitsrc.io/next-js-13-9bfd898747d7
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676989383808/41ce6b4d-ddd3-4688-8b78-84a1e9aecc1f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676990926382/f5dbb16c-ec76-4501-9d65-7820992c0df9.png
+tags: software-development, reactjs, nextjs, nextjs-v13
+
+---
 
 # **Introduction**
 
